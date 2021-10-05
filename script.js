@@ -96,8 +96,13 @@ var participants =
   "name":"Yash Gupta",
   "intro":"MERN Stack Developer | Freelancer | Competitve Coder",
   "quote":"Code is Life"
+},
+{  
+ "github":"1998ramanpreet",
+ "name":"Ramanpreet Kaur",
+ "intro":"Embedded System Engineer",
+ "quote":"Happy Coding!"
 }
-
   
 ]
 
